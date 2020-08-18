@@ -1,0 +1,6 @@
+<?php
+  
+  $_COOKIE["shafayat"];
+
+
+?>
